@@ -81,10 +81,10 @@ class DATABASE_CONFIG {
 	public $production = array(
 			'datasource' => 'Database/Mysql',
 			'persistent' => false,
-			'host' => 'mysql018.phy.lolipop.lan',
+			'host' => 'mysql020.phy.lolipop.lan',
 			'login' => 'LAA0278957',
-			'password' => 'g2zsbynjrbsj2cj',
-			'database' => 'LAA0278957-cakenr5',
+			'password' => 'c8fufraphukan3fu',
+			'database' => 'LAA0278957-caketexts',
 			'prefix' => '',
 			'encoding' => 'utf8',
 	);
