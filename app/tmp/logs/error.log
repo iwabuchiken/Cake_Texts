@@ -1,0 +1,1330 @@
+2014-09-18 15:25:37 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /Cake_NR5/users/login
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(3479): ConnectionManager::getDataSource('default')
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(1128): Model->setDataSource('default')
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(3501): Model->setSource('users')
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(1357): Model->getDataSource()
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\Helper\FormHelper.php(467): FormHelper->_introspectModel('User', 'fields')
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\login.ctp(3): FormHelper->create('User')
+#8 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(948): include('C:\\WORKS\\WS\\Ecl...')
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(910): View->_evaluate('C:\\WORKS\\WS\\Ecl...', Array)
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(471): View->_render('C:\\WORKS\\WS\\Ecl...')
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#12 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#13 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#14 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2014-09-19 01:45:49 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /Cake_NR5/users/login
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(3501): Model->setSource('users')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(1357): Model->getDataSource()
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\Helper\FormHelper.php(467): FormHelper->_introspectModel('User', 'fields')
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\login.ctp(3): FormHelper->create('User')
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(948): include('C:\\WORKS\\WS\\Ecl...')
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(910): View->_evaluate('C:\\WORKS\\WS\\Ecl...', Array)
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(471): View->_render('C:\\WORKS\\WS\\Ecl...')
+#8 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-09-19 01:56:05 Error: Fatal Error (1): Call to a member function allow() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\AppController.php, line 63]
+2014-09-19 01:56:05 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /Cake_NR5/users/login
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 63, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 63, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 01:56:10 Error: Fatal Error (1): Call to a member function allow() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\AppController.php, line 63]
+2014-09-19 01:56:10 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /Cake_NR5/
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 63, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 63, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 02:24:28 Error: [MissingControllerException] Controller class ArticlesController could not be found.
+Exception Attributes: array (
+  'class' => 'ArticlesController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-19 02:31:24 Error: [MissingControllerException] Controller class ArticlesController could not be found.
+Exception Attributes: array (
+  'class' => 'ArticlesController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-19 12:58:25 Error: Fatal Error (1): Call to undefined function _index_GetArticles() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 21]
+2014-09-19 12:58:25 Error: [FatalErrorException] Call to undefined function _index_GetArticles()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 21, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 21, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 12:58:39 Error: Fatal Error (1): Call to undefined function file_get_html() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 40]
+2014-09-19 12:58:39 Error: [FatalErrorException] Call to undefined function file_get_html()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 40)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 40, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 40, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 13:13:17 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 42]
+2014-09-19 13:13:17 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 42)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 42, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 42, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 13:13:44 Error: Fatal Error (1): Call to undefined function file_get_html() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 41]
+2014-09-19 13:13:44 Error: [FatalErrorException] Call to undefined function file_get_html()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 41)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 41, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 41, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 13:18:23 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 45915044 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 563]
+2014-09-19 13:18:23 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 45915044 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 13:18:47 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 46522506 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 563]
+2014-09-19 13:18:47 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 46522506 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 13:46:05 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 116100 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-09-19 13:46:05 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 116100 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 14:30:45 Error: Fatal Error (1): Call to undefined method SimpleXMLElement::find() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 122]
+2014-09-19 14:30:45 Error: [FatalErrorException] Call to undefined method SimpleXMLElement::find()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 122)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 122, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 122, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 14:33:33 Error: Fatal Error (1): Call to undefined method SimpleXMLElement::find() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 122]
+2014-09-19 14:33:33 Error: [FatalErrorException] Call to undefined method SimpleXMLElement::find()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 122)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 122, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 122, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 14:36:59 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 122880 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 606]
+2014-09-19 14:36:59 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 122880 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 606)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 606, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 606, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 14:38:50 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 115149 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-09-19 14:38:50 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 115149 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 15:19:17 Error: Fatal Error (1): Call to undefined function debut() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 248]
+2014-09-19 15:19:17 Error: [FatalErrorException] Call to undefined function debut()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 248)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 248, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 248, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 15:31:56 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 131920 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-09-19 15:31:56 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 131920 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-19 15:55:50 Error: Fatal Error (1): Call to undefined method simple_html_dom_node::strval() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 123]
+2014-09-19 15:55:50 Error: [FatalErrorException] Call to undefined method simple_html_dom_node::strval()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 123)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 123, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 123, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-20 14:19:51 Error: Fatal Error (1): Cannot use object of type simple_html_dom_node as array in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Elements\articles\index\_idx_t_entries.ctp, line 26]
+2014-09-20 14:19:51 Error: [FatalErrorException] Cannot use object of type simple_html_dom_node as array
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot use obje...', 'C:\\WORKS\\WS\\Ecl...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot use obje...', 'C:\\WORKS\\WS\\Ecl...', 26, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot use obje...', 'C:\\WORKS\\WS\\Ecl...', 26, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-20 14:22:54 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 136545 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-09-20 14:22:54 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 136545 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-20 16:31:02 Error: Fatal Error (1): Unsupported operand types in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\Helper\FormHelper.php, line 378]
+2014-09-20 16:31:03 Error: [FatalErrorException] Unsupported operand types
+Request URL: /Cake_NR5/articles?genre_num=4
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 378)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 378, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 378, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-20 16:31:30 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Elements\articles\index\_header.ctp, line 66]
+2014-09-20 16:31:30 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /Cake_NR5/articles?genre_num=4
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 66)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 66, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 66, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-21 01:48:17 Error: [MissingControllerException] Controller class CategorysController could not be found.
+Exception Attributes: array (
+  'class' => 'CategorysController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/categorys/delete/2
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-21 01:50:08 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+Exception Attributes: array (
+  'class' => 'CategoriesController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/categories
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-21 01:50:13 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+Exception Attributes: array (
+  'class' => 'CategoriesController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/categories
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-21 01:50:35 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+Exception Attributes: array (
+  'class' => 'CategoriesController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/categories
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-21 01:50:37 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Categorys\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Categorys\\index.ctp',
+)
+Request URL: /Cake_NR5/categorys
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(CategorysController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-09-21 01:51:09 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+Exception Attributes: array (
+  'class' => 'CategoriesController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/categories/view/2
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-21 01:51:58 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+Exception Attributes: array (
+  'class' => 'CategoriesController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/categories/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-21 04:02:50 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Helper\KeywordHelper.php, line 13]
+2014-09-21 04:02:50 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Cake_NR5/keywords/view/1
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 13, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 13, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-21 04:03:17 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Helper\KeywordHelper.php, line 15]
+2014-09-21 04:03:17 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Cake_NR5/keywords/view/1
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 15)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 15, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 15, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-21 06:12:58 Error: Fatal Error (4): syntax error, unexpected end of file in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Elements\articles\index\_idx_t_entries.ctp, line 76]
+2014-09-21 06:12:58 Error: [FatalErrorException] syntax error, unexpected end of file
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 76)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 76, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 76, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-21 09:02:15 Error: Fatal Error (1): Call to undefined function cont() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\CategorysController.php, line 149]
+2014-09-21 09:02:15 Error: [FatalErrorException] Call to undefined function cont()
+Request URL: /Cake_NR5/categorys/view/3
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 149, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 149, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-21 09:02:35 Error: Fatal Error (1): Call to undefined function cont() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\CategorysController.php, line 149]
+2014-09-21 09:02:35 Error: [FatalErrorException] Call to undefined function cont()
+Request URL: /Cake_NR5/categorys/view/3
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 149)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 149, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 149, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-21 09:17:16 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 1701664 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-09-21 09:17:16 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 1701664 bytes)
+Request URL: /Cake_NR5/categorys/view/3
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-21 09:47:28 Error: [PrivateActionException] Private Action CategorysController::_save_Data_Categories_from_CSV() is not directly accessible.
+Exception Attributes: array (
+  'controller' => 'CategorysController',
+  'action' => '_save_Data_Categories_from_CSV',
+)
+Request URL: /Cake_NR5/categorys/_save_Data_Categories_from_CSV
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(CategorysController), Object(CakeRequest))
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-09-21 09:52:26 Error: [MissingActionException] Action CategorysController::_save_Data_Categories_from_CSV() could not be found.
+Exception Attributes: array (
+  'controller' => 'CategorysController',
+  'action' => '_save_Data_Categories_from_CSV',
+)
+Request URL: /Cake_NR5/categorys/_save_Data_Categories_from_CSV
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(CategorysController), Object(CakeRequest))
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-09-21 14:20:16 Error: [PDOException] SQLSTATE[HY000]: General error: 1 ambiguous column name: id
+Request URL: /Cake_NR5/categorys/delete_all
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(456): PDO->prepare('SELECT "Categor...', Array)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT "Categor...', Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT "Categor...', Array, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT "Categor...', false)
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2905): DboSource->read(Object(Category), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2877): Model->_readDataSource('all', Array)
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2712): Model->find('all', Array)
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\CategorysController.php(124): Model->deleteAll(Array)
+#8 [internal function]: CategorysController->delete_all()
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CategorysController), Array)
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(CategorysController), Object(CakeRequest))
+#12 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-09-22 02:06:07 Error: Fatal Error (1): Call to undefined method KeywordsController::_save_Data_Keywords_from_CSV__KWPairs() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\KeywordsController.php, line 217]
+2014-09-22 02:06:07 Error: [FatalErrorException] Call to undefined method KeywordsController::_save_Data_Keywords_from_CSV__KWPairs()
+Request URL: /Cake_NR5/keywords/save_Data_Keywords_from_CSV
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 217)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 217, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 217, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-22 09:07:07 Error: Fatal Error (1): Call to undefined function _save_Data_Keywords_from_CSV__Get_CatID_From_OrigID() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\KeywordsController.php, line 259]
+2014-09-22 09:07:07 Error: [FatalErrorException] Call to undefined function _save_Data_Keywords_from_CSV__Get_CatID_From_OrigID()
+Request URL: /Cake_NR5/keywords/save_Data_Keywords_from_CSV
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 259)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 259, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 259, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-22 02:18:43 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 812]
+2014-09-22 02:18:43 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /Cake_NR5/keywords
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 812)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 812, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 812, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-22 02:19:16 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\basics.php, line 198]
+2014-09-22 02:19:16 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /Cake_NR5/keywords
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 198)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 198, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 198, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-22 06:16:11 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 175]
+2014-09-22 06:16:12 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 175)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 175, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 175, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-22 06:23:11 Error: Fatal Error (64): Cannot declare property CONS::$genre_code_dflt final, the final modifier is allowed only for methods and classes in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\CONS.php, line 38]
+2014-09-22 06:23:11 Error: [FatalErrorException] Cannot declare property CONS::$genre_code_dflt final, the final modifier is allowed only for methods and classes
+Request URL: /Cake_NR5/articles?genre_id=3
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot declare ...', 'C:\\WORKS\\WS\\Ecl...', 38)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot declare ...', 'C:\\WORKS\\WS\\Ecl...', 38, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot declare ...', 'C:\\WORKS\\WS\\Ecl...', 38, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-22 07:42:53 Error: Fatal Error (1): Call to undefined function array_pupsh() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 268]
+2014-09-22 07:42:53 Error: [FatalErrorException] Call to undefined function array_pupsh()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 268)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 268, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 268, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-22 08:48:25 Error: [MissingControllerException] Controller class OthersController could not be found.
+Exception Attributes: array (
+  'class' => 'OthersController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/Others
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-23 00:56:37 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 142]
+2014-09-23 00:56:37 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN)
+Request URL: /Cake_NR5/articles?genre_id=4
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 142)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 142, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 142, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-23 01:56:52 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 107]
+2014-09-23 01:56:52 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /Cake_NR5/articles?genre_id=4
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 107)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 107, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 107, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-23 02:02:28 Error: Fatal Error (64): Cannot redeclare ArticlesController::__index_Get_Categories() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 195]
+2014-09-23 02:02:28 Error: [FatalErrorException] Cannot redeclare ArticlesController::__index_Get_Categories()
+Request URL: /Cake_NR5/articles?genre_id=4
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\WORKS\\WS\\Ecl...', 195)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\WORKS\\WS\\Ecl...', 195, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\\WORKS\\WS\\Ecl...', 195, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-23 02:38:23 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Elements\articles\index\_idx_test_D_9_V_1_1_Header.ctp, line 22]
+2014-09-23 02:38:23 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+Request URL: /Cake_NR5/articles?genre_id=2
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 22, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 22, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-24 00:11:09 Error: Fatal Error (1): Call to undefined function cont() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Articles\index.ctp, line 4]
+2014-09-24 00:11:09 Error: [FatalErrorException] Call to undefined function cont()
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 4, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 4, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-24 03:25:24 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\KeywordsController.php, line 167]
+2014-09-24 03:25:24 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /Cake_NR5/keywords
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 167)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 167, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 167, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-24 03:27:19 Error: [PDOException] SQLSTATE[HY000]: General error: 1 ambiguous column name: name
+Request URL: /Cake_NR5/keywords/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(456): PDO->prepare('SELECT "Categor...', Array)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT "Categor...', Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT "Categor...', Array, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT "Categor...', false)
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2905): DboSource->read(Object(Category), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2877): Model->_readDataSource('all', Array)
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\KeywordsController.php(184): Model->find('all', Array)
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\KeywordsController.php(168): KeywordsController->_get_Selector_Category()
+#8 [internal function]: KeywordsController->add()
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(KeywordsController), Array)
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(KeywordsController), Object(CakeRequest))
+#12 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-09-25 07:54:40 Error: [MissingActionException] Action KeywordsController::add_KW__Genre_Changed() could not be found.
+Exception Attributes: array (
+  'controller' => 'KeywordsController',
+  'action' => 'add_KW__Genre_Changed',
+)
+Request URL: /Cake_NR5/keywords/add_KW__Genre_Changed?id=4
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(KeywordsController), Object(CakeRequest))
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-09-25 08:08:31 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Keywords\Keywords\js\add_KW__Genre_Changed.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Keywords\\Keywords\\js\\add_KW__Genre_Changed.ctp',
+)
+Request URL: /Cake_NR5/keywords
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('Keywords/js/add...')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('Keywords/js/add...', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\KeywordsController.php(91): Controller->render('Keywords/js/add...')
+#3 [internal function]: KeywordsController->index()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(KeywordsController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(KeywordsController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-09-25 08:09:51 Error: [MissingControllerException] Controller class AddKWGenreChangedController could not be found.
+Exception Attributes: array (
+  'class' => 'AddKWGenreChangedController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/add_KW__Genre_Changed
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-25 09:58:35 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\index.ctp',
+)
+Request URL: /Cake_NR5/historys
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-09-25 10:02:34 Error: [PDOException] SQLSTATE[HY000]: General error: 1 no such column: History.category_id
+Request URL: /Cake_NR5/historys
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(456): PDO->prepare('SELECT "History...', Array)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT "History...', Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT "History...', Array, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT "History...', false)
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2905): DboSource->read(Object(History), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2877): Model->_readDataSource('all', Array)
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(7): Model->find('all')
+#7 [internal function]: HistorysController->index()
+#8 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(HistorysController), Array)
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-09-25 12:09:35 Error: Fatal Error (1): Using $this when not in object context in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\utils.php, line 388]
+2014-09-25 12:09:35 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /Cake_NR5/historys/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 388)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 388, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 388, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-25 12:12:43 Error: Fatal Error (1): Using $this when not in object context in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\utils.php, line 393]
+2014-09-25 12:12:43 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /Cake_NR5/historys/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 393)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 393, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 393, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-25 12:14:46 Error: Fatal Error (1): Class 'Genre' not found in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\utils.php, line 391]
+2014-09-25 12:14:46 Error: [FatalErrorException] Class 'Genre' not found
+Request URL: /Cake_NR5/historys/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Genre' n...', 'C:\\WORKS\\WS\\Ecl...', 391)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Genre' n...', 'C:\\WORKS\\WS\\Ecl...', 391, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Genre' n...', 'C:\\WORKS\\WS\\Ecl...', 391, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-25 12:19:49 Error: Fatal Error (1): Using $this when not in object context in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\utils.php, line 350]
+2014-09-25 12:19:49 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /Cake_NR5/historys/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 350)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 350, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 350, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-25 14:11:04 Error: Fatal Error (1): Using $this when not in object context in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\utils.php, line 350]
+2014-09-25 14:11:04 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /Cake_NR5/historys/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 350)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 350, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 350, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-25 14:14:31 Error: Fatal Error (1): Using $this when not in object context in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\utils.php, line 373]
+2014-09-25 14:14:31 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /Cake_NR5/historys/add
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 373)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 373, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'C:\\WORKS\\WS\\Ecl...', 373, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-25 15:07:43 Error: [PrivateActionException] Private Action ArticlesController::_open_article() is not directly accessible.
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => '_open_article',
+)
+Request URL: /Cake_NR5/articles/_open_article?article_url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20140925-00000157-jij-soci
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(ArticlesController), Object(CakeRequest))
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-09-26 00:36:45 Error: Fatal Error (64): Cannot declare property CONS::$categoryLabel_Others final, the final modifier is allowed only for methods and classes in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Lib\utils\CONS.php, line 43]
+2014-09-26 00:36:46 Error: [FatalErrorException] Cannot declare property CONS::$categoryLabel_Others final, the final modifier is allowed only for methods and classes
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot declare ...', 'C:\\WORKS\\WS\\Ecl...', 43)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot declare ...', 'C:\\WORKS\\WS\\Ecl...', 43, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot declare ...', 'C:\\WORKS\\WS\\Ecl...', 43, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-26 00:48:49 Error: [MissingHelperException] Helper class ArticleHelper could not be found.
+Exception Attributes: array (
+  'class' => 'ArticleHelper',
+  'plugin' => false,
+)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('Article')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(837): HelperCollection->__isset('Article')
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Elements\articles\index\_idx_test_D_9_V_1_1.ctp(36): View->__get('Article')
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(948): include('C:\\WORKS\\WS\\Ecl...')
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(910): View->_evaluate('C:\\WORKS\\WS\\Ecl...', Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(1213): View->_render('C:\\WORKS\\WS\\Ecl...', Array)
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(418): View->_renderElement('C:\\WORKS\\WS\\Ecl...', Array, Array)
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Articles\index.ctp(12): View->element('articles/index/...')
+#8 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(948): include('C:\\WORKS\\WS\\Ecl...')
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(910): View->_evaluate('C:\\WORKS\\WS\\Ecl...', Array)
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(471): View->_render('C:\\WORKS\\WS\\Ecl...')
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#12 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#13 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(ArticlesController), Object(CakeRequest))
+#14 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2014-09-26 03:31:57 Error: Fatal Error (1): Class 'Sanitize' not found in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Elements\historys\index_t_entries.ctp, line 11]
+2014-09-26 03:31:58 Error: [FatalErrorException] Class 'Sanitize' not found
+Request URL: /Cake_NR5/historys
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Sanitize...', 'C:\\WORKS\\WS\\Ecl...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Sanitize...', 'C:\\WORKS\\WS\\Ecl...', 11, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Sanitize...', 'C:\\WORKS\\WS\\Ecl...', 11, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-26 03:36:28 Error: Fatal Error (1): Unsupported operand types in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Sanitize.php, line 114]
+2014-09-26 03:36:28 Error: [FatalErrorException] Unsupported operand types
+Request URL: /Cake_NR5/historys
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 114)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 114, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 114, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-26 03:38:29 Error: Fatal Error (1): Unsupported operand types in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Sanitize.php, line 114]
+2014-09-26 03:38:29 Error: [FatalErrorException] Unsupported operand types
+Request URL: /Cake_NR5/historys
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 114)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 114, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', 'C:\\WORKS\\WS\\Ecl...', 114, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-26 04:32:47 Error: Fatal Error (1): Call to undefined function _open_article__GetContent() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 2186]
+2014-09-26 04:32:47 Error: [FatalErrorException] Call to undefined function _open_article__GetContent()
+Request URL: /Cake_NR5/articles/open_article?article_url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20140926-00050016-yom-soci&article_line=%EF%BC%AA%EF%BC%B2%E9%81%8B%E8%BB%A2%E5%A3%AB%E3%80%81%E7%89%B9%E6%80%A5%E9%81%8B%E8%BB%A2%E4%B8%AD%E3%81%AB%E3%82%B9%E3%83%9E%E3%83%9B%E2%80%A6%EF%BC%A6%EF%BC%A2%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF&article_vendor=yom
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 2186)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 2186, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 2186, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-27 14:25:57 Error: Fatal Error (1): Call to undefined function _view_Mecab() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php, line 25]
+2014-09-27 14:25:57 Error: [FatalErrorException] Call to undefined function _view_Mecab()
+Request URL: /Cake_NR5/historys/view/28
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 25, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\WORKS\\WS\\Ecl...', 25, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-27 14:26:26 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 39787594 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 563]
+2014-09-27 14:26:26 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 39787594 bytes)
+Request URL: /Cake_NR5/historys/view/28
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-27 14:26:53 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 39787594 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 563]
+2014-09-27 14:26:53 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 39787594 bytes)
+Request URL: /Cake_NR5/historys/view/28
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-27 14:35:40 Error: [PDOException] SQLSTATE[HY000]: General error: 1 near "sanitize": syntax error
+Request URL: /Cake_NR5/historys/view/27
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(456): PDO->prepare('sanitize', Array)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('sanitize', Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('sanitize', Array, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(609): DboSource->fetchAll('sanitize', Array, Array)
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(800): DboSource->query('sanitize', Array, Object(History))
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(32): Model->__call('sanitize', Array)
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(32): History->sanitize('\xE7\xA5\x9E\xE6\x88\xB8\xE5\xA5\xB3\xE5\x85\x90\xE9\x81\xBA...')
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(25): HistorysController->_view_Mecab(Array)
+#8 [internal function]: HistorysController->view('27')
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(HistorysController), Array)
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#12 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-09-29 08:19:05 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 563]
+2014-09-29 08:19:05 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /Cake_NR5/historys/save_Tokens/28
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 563)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-29 15:25:03 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\save__tokens.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\save__tokens.ctp',
+)
+Request URL: /Cake_NR5/historys/save_Tokens/28
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-09-29 15:25:53 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\save__tokens.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\save__tokens.ctp',
+)
+Request URL: /Cake_NR5/historys/save_Tokens/28
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-09-29 09:43:56 Error: [PDOException] SQLSTATE[HY000]: General error: 1 ambiguous column name: id
+Request URL: /Cake_NR5/tokens/delete_all
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(456): PDO->prepare('SELECT "Token"....', Array)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT "Token"....', Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT "Token"....', Array, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT "Token"....', false)
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2905): DboSource->read(Object(Token), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2877): Model->_readDataSource('all', Array)
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2712): Model->find('all', Array)
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\TokensController.php(94): Model->deleteAll(Array)
+#8 [internal function]: TokensController->delete_all()
+#9 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TokensController), Array)
+#10 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#11 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(TokensController), Object(CakeRequest))
+#12 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-09-29 14:44:33 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\a_a_a.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\a_a_a.ctp',
+)
+Request URL: /Cake_NR5/historys/content_multilines
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('AAA')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('AAA', 'plain_1')
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(518): Controller->render('AAA', 'plain_1')
+#3 [internal function]: HistorysController->content_multilines()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(HistorysController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-09-29 14:45:08 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\a_a_a.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\a_a_a.ctp',
+)
+Request URL: /Cake_NR5/historys/content_multilines
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('AAA')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('AAA', 'plain_1')
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(519): Controller->render('AAA', 'plain_1')
+#3 [internal function]: HistorysController->content_multilines()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(HistorysController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-09-29 14:46:41 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\plain_1.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\plain_1.ctp',
+)
+Request URL: /Cake_NR5/historys/content_multilines
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('plain_1')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('plain_1', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(519): Controller->render('plain_1')
+#3 [internal function]: HistorysController->content_multilines()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(HistorysController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-09-29 14:47:38 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\Layouts\plain_1.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\Layouts\\plain_1.ctp',
+)
+Request URL: /Cake_NR5/historys/content_multilines
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('Layouts/plain_1')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('Layouts/plain_1', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(519): Controller->render('Layouts/plain_1')
+#3 [internal function]: HistorysController->content_multilines()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(HistorysController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-09-29 14:50:25 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\Layouts\plain_1.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Historys\\Layouts\\plain_1.ctp',
+)
+Request URL: /Cake_NR5/historys/content_multilines
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('Layouts/plain_1')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('Layouts/plain_1', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php(519): Controller->render('Layouts/plain_1')
+#3 [internal function]: HistorysController->content_multilines()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(HistorysController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(HistorysController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-09-30 02:05:55 Error: Fatal Error (1): Call to a member function button() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Historys\view.ctp, line 57]
+2014-09-30 02:05:55 Error: [FatalErrorException] Call to a member function button() on a non-object
+Request URL: /Cake_NR5/historys/view/28
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 57, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 57, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-30 03:15:14 Error: [MissingTableException] Table admins for model Admin was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'admins',
+  'class' => 'Admin',
+  'ds' => 'default',
+)
+Request URL: /Cake_NR5/admins
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(3501): Model->setSource('admins')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2905): Model->getDataSource()
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Model\Model.php(2877): Model->_readDataSource('all', Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\AdminsController.php(7): Model->find('all')
+#4 [internal function]: AdminsController->index()
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#8 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-01 01:59:35 Error: Fatal Error (4): syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 2232]
+2014-10-01 01:59:35 Error: [FatalErrorException] syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION)
+Request URL: /Cake_NR5/articles/open_article?article_url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20140930-00050143-yom-soci&article_line=%E6%96%87%E7%A7%91%E7%9B%B8%E3%80%8C%E9%81%A9%E5%88%87%E3%81%AA%E8%B3%87%E6%96%99%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%3Cfont+color%3D%22blue%22%3E%E5%85%A5%E8%A9%A6%3C%2Ffont%3E%E3%82%92%E3%80%8D&article_vendor=yom&article_news_time=20140930&article_category_id=34
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 2232)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 2232, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 2232, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-01 09:02:31 Error: Fatal Error (1): Class 'Article' not found in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 2230]
+2014-10-01 09:02:31 Error: [FatalErrorException] Class 'Article' not found
+Request URL: /Cake_NR5/articles/open_article?article_url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20141001-00050009-yom-soci&article_line=%E5%B3%B6%E6%A0%B9%E7%9C%8C%E6%B2%96%E3%81%A7%3Cfont+color%3D%22blue%22%3E%E4%B8%AD%E5%9B%BD%3C%2Ffont%3E%E8%88%B9%E7%B1%8D%E3%81%AE%E6%BC%81%E8%88%B9%E6%B2%88%E6%B2%A1%E3%80%81%EF%BC%99%E4%BA%BA%E3%81%8C%E8%A1%8C%E6%96%B9%E4%B8%8D%E6%98%8E&article_vendor=yom&article_news_time=20141001&article_category_id=27
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Article'...', 'C:\\WORKS\\WS\\Ecl...', 2230)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Article'...', 'C:\\WORKS\\WS\\Ecl...', 2230, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Article'...', 'C:\\WORKS\\WS\\Ecl...', 2230, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-01 09:05:36 Error: Fatal Error (1): Class 'Article' not found in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 2231]
+2014-10-01 09:05:36 Error: [FatalErrorException] Class 'Article' not found
+Request URL: /Cake_NR5/articles/open_article?article_url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20141001-00050009-yom-soci&article_line=%E5%B3%B6%E6%A0%B9%E7%9C%8C%E6%B2%96%E3%81%A7%3Cfont+color%3D%22blue%22%3E%E4%B8%AD%E5%9B%BD%3C%2Ffont%3E%E8%88%B9%E7%B1%8D%E3%81%AE%E6%BC%81%E8%88%B9%E6%B2%88%E6%B2%A1%E3%80%81%EF%BC%99%E4%BA%BA%E3%81%8C%E8%A1%8C%E6%96%B9%E4%B8%8D%E6%98%8E&article_vendor=yom&article_news_time=20141001&article_category_id=27
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Article'...', 'C:\\WORKS\\WS\\Ecl...', 2231)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Article'...', 'C:\\WORKS\\WS\\Ecl...', 2231, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Article'...', 'C:\\WORKS\\WS\\Ecl...', 2231, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-01 09:06:52 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 27760751 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 563]
+2014-10-01 09:06:52 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 27760751 bytes)
+Request URL: /Cake_NR5/articles/open_article?article_url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20141001-00050009-yom-soci&article_line=%E5%B3%B6%E6%A0%B9%E7%9C%8C%E6%B2%96%E3%81%A7%3Cfont+color%3D%22blue%22%3E%E4%B8%AD%E5%9B%BD%3C%2Ffont%3E%E8%88%B9%E7%B1%8D%E3%81%AE%E6%BC%81%E8%88%B9%E6%B2%88%E6%B2%A1%E3%80%81%EF%BC%99%E4%BA%BA%E3%81%8C%E8%A1%8C%E6%96%B9%E4%B8%8D%E6%98%8E&article_vendor=yom&article_news_time=20141001&article_category_id=27
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 563, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-05 09:25:48 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\HistorysController.php, line 406]
+2014-10-05 09:25:48 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /Cake_NR5/historys/index/page:9
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 406)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 406, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 406, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 02:56:21 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\SkimmedTokens\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\SkimmedTokens\\index.ctp',
+)
+Request URL: /Cake_NR5/skimmedtokens
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(SkimmedTokensController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 04:55:39 Error: [MissingModelException] SkimmedToken
+Request URL: /Cake_NR5/skimmedtokens
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(1080): PaginatorComponent->paginate('SkimmedToken', Array, Array)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\SkimmedTokensController.php(37): Controller->paginate('SkimmedToken')
+#2 [internal function]: SkimmedtokensController->index()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SkimmedtokensController), Array)
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(SkimmedtokensController), Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-10-15 04:39:44 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 229292 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-10-15 04:39:44 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 229292 bytes)
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-15 04:42:56 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 44361 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-10-15 04:42:56 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 44361 bytes)
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-15 04:53:50 Error: Fatal Error (1): Call to a member function children() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\EqsController.php, line 31]
+2014-10-15 04:53:50 Error: [FatalErrorException] Call to a member function children() on a non-object
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 31, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 31, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-15 04:54:45 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 44299 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-10-15 04:54:45 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 44299 bytes)
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-15 04:58:50 Error: Fatal Error (1): Cannot use object of type simple_html_dom_node as array in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\EqsController.php, line 33]
+2014-10-15 04:58:50 Error: [FatalErrorException] Cannot use object of type simple_html_dom_node as array
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot use obje...', 'C:\\WORKS\\WS\\Ecl...', 33)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot use obje...', 'C:\\WORKS\\WS\\Ecl...', 33, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot use obje...', 'C:\\WORKS\\WS\\Ecl...', 33, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-15 04:59:58 Error: Fatal Error (1): Call to a member function first_child() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\EqsController.php, line 33]
+2014-10-15 04:59:58 Error: [FatalErrorException] Call to a member function first_child() on a non-object
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 33)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 33, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 33, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-15 05:03:23 Error: Fatal Error (1): Call to a member function children() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\EqsController.php, line 33]
+2014-10-15 05:03:23 Error: [FatalErrorException] Call to a member function children() on a non-object
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 33)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 33, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 33, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-16 03:31:16 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 43737 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-10-16 03:31:16 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 43737 bytes)
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-16 04:07:31 Error: [MissingActionException] Action EqsController::save_eqs() could not be found.
+Exception Attributes: array (
+  'controller' => 'EqsController',
+  'action' => 'save_eqs',
+)
+Request URL: /Cake_NR5/eqs/save_eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(EqsController), Object(CakeRequest))
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-10-16 04:27:40 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\EqsController.php, line 331]
+2014-10-16 04:27:40 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 331)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 331, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 331, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-16 04:28:09 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\EqsController.php, line 331]
+2014-10-16 04:28:09 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 331)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 331, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 331, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-16 04:29:05 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\EqsController.php, line 333]
+2014-10-16 04:29:05 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Cake_NR5/eqs
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 333)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 333, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\WORKS\\WS\\Ecl...', 333, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-20 01:42:57 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\UsersController.php, line 89]
+2014-10-20 01:42:57 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /Cake_NR5/users/login
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\WORKS\\WS\\Ecl...', 89)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\WORKS\\WS\\Ecl...', 89, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\\WORKS\\WS\\Ecl...', 89, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-20 01:56:10 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Users\\index.ctp',
+)
+Request URL: /Cake_NR5/users
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-20 02:06:24 Error: [MissingActionException] Action KeywordsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'KeywordsController',
+  'action' => 'logout',
+)
+Request URL: /Cake_NR5/keywords/logout
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(KeywordsController), Object(CakeRequest))
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-10-20 02:06:31 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /Cake_NR5/user/logout
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-20 02:07:09 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\add_user.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Users\\add_user.ctp',
+)
+Request URL: /Cake_NR5/users/add_user
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-20 02:09:04 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\add_user.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Users\\add_user.ctp',
+)
+Request URL: /Cake_NR5/users/add_user
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-20 02:10:19 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\users\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Users\\users\\add.ctp',
+)
+Request URL: /Cake_NR5/users/add_user
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('users/add')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('users/add', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\UsersController.php(74): Controller->render('users/add')
+#3 [internal function]: UsersController->add_user()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-10-20 02:10:26 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\users\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Users\\users\\add.ctp',
+)
+Request URL: /Cake_NR5/users/add_user
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('users/add')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('users/add', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\UsersController.php(74): Controller->render('users/add')
+#3 [internal function]: UsersController->add_user()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-10-20 02:10:28 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\users\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Users\\users\\add.ctp',
+)
+Request URL: /Cake_NR5/users/add_user
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('users/add')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('users/add', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\UsersController.php(74): Controller->render('users/add')
+#3 [internal function]: UsersController->add_user()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-10-20 02:10:35 Error: [MissingViewException] View file "C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\View\Users\users\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\WORKS\\WS\\Eclipse_Kepler\\Cake_NR5\\app\\View\\Users\\users\\add.ctp',
+)
+Request URL: /Cake_NR5/users/add_user
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\View\View.php(468): View->_getViewFileName('users/add')
+#1 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(954): View->render('users/add', NULL)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\UsersController.php(74): Controller->render('users/add')
+#3 [internal function]: UsersController->add_user()
+#4 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#5 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#7 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-11-19 00:06:36 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 140119 bytes) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Utility\Debugger.php, line 611]
+2014-11-19 00:06:36 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 140119 bytes)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\\WORKS\\WS\\Ecl...', 611, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-20 10:59:47 Error: Fatal Error (4): syntax error, unexpected '$articles' (T_VARIABLE) in [C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\Controller\ArticlesController.php, line 669]
+2014-11-20 10:59:47 Error: [FatalErrorException] syntax error, unexpected '$articles' (T_VARIABLE)
+Request URL: /Cake_NR5/articles
+Stack Trace:
+#0 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 669)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 669, Array)
+#2 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\WORKS\\WS\\Ecl...', 669, Array)
+#3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
