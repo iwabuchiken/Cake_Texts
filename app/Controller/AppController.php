@@ -64,7 +64,7 @@ class AppController extends Controller {
 // 		require_once $this->path_Utils.DS."db_util.php";
 	
 // 		$this->Auth->allow('index', 'view');
-		$this->Auth->allow('index', 'view', 'open_article');
+// 		$this->Auth->allow('index', 'view', 'open_article');
 		
 	}//beforeFilter
 	
@@ -378,21 +378,21 @@ class AppController extends Controller {
 	
 	}//_content_multilines_GetHtml
 
-	public $components = array(
-			'Session',
-			'Auth' => array(
-					'loginRedirect' => array(
-							'controller' => 'articles',
-							// 							'controller' => 'posts',
-							'action' => 'index'
-					),
-					'logoutRedirect' => array(
-							'controller' => 'articles',
-							'action' => 'index'
-							// 							'action' => 'display',
-	// 							'home'
-					)
-			)
-	);
+// 	public $components = array(
+// 			'Session',
+// 			'Auth' => array(
+// 					'loginRedirect' => array(
+// 							'controller' => 'articles',
+// 							// 							'controller' => 'posts',
+// 							'action' => 'index'
+// 					),
+// 					'logoutRedirect' => array(
+// 							'controller' => 'articles',
+// 							'action' => 'index'
+// 							// 							'action' => 'display',
+// 	// 							'home'
+// 					)
+// 			)
+// 	);
 	
 }//class AppController extends Controller
