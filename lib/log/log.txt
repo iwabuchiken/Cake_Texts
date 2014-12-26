@@ -1,0 +1,2650 @@
+[07/05/2014 08:58:42 : C:\WORKS\WS\Eclipse_Kepler\VM_Cake\app\Controller\VideosController.php : 12] Videos#index
+[07/05/2014 08:59:41 : C:\WORKS\WS\Eclipse_Kepler\VM_Cake\app\Controller\VideosController.php : 14] Videos#index
+[07/05/2014 09:03:36 : C:\WORKS\WS\Eclipse_Kepler\VM_Cake\app\Controller\VideosController.php : 14] Videos#index
+DS => \[07/05/2014 09:05:30 : C:\WORKS\WS\Eclipse_Kepler\VM_Cake\app\Controller\VideosController.php : 14] Videos#index
+ROOT => C:\WORKS\WS\Eclipse_Kepler\VM_Cake[07/05/2014 09:10:43 : C:\WORKS\WS\Eclipse_Kepler\VM_Cake\app\Controller\VideosController.php : 14] Videos#index
+[07/05/2014 09:11:06 : \app\Controller\VideosController.php : 14] Videos#index
+[07/05/2014 10:39:15 : \app\Controller\VideosController.php : 14] Videos#index
+[07/05/2014 11:04:08 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 07:40:20 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:03:35 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:05:32 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:09:21 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:10:14 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:11:30 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:11:58 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:13:27 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:14:00 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:14:40 : \app\Controller\VideosController.php : 14] Videos#index
+[07/06/2014 10:15:52 : \app\Controller\VideosController.php : 14] Videos#index
+[07/07/2014 09:54:14 : \app\Controller\VideosController.php : 14] Videos#index
+[07/07/2014 09:55:18 : \app\Controller\VideosController.php : 14] Videos#index
+[07/07/2014 10:24:12 : \app\Controller\VideosController.php : 14] Videos#index
+[07/08/2014 08:11:42 : \app\Controller\VideosController.php : 14] Videos#index
+[07/08/2014 19:17:12 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 07:02:28 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 07:05:31 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 07:06:08 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 07:06:48 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 07:07:03 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 07:07:15 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 10:19:33 : \app\Controller\VideosController.php : 14] Videos#index
+[07/09/2014 21:15:37 : \app\Controller\VideosController.php : 14] Videos#index
+[07/10/2014 08:10:48 : \app\Controller\VideosController.php : 14] Videos#index
+[07/10/2014 18:28:56 : \app\Controller\VideosController.php : 14] Videos#index
+[07/10/2014 23:28:55 : \app\Controller\VideosController.php : 14] Videos#index
+[07/11/2014 09:13:54 : \app\Controller\VideosController.php : 14] Videos#index
+[07/12/2014 08:10:39 : \app\Controller\VideosController.php : 14] Videos#index
+[07/12/2014 10:00:04 : \app\Controller\VideosController.php : 14] Videos#index
+[07/13/2014 07:36:43 : \app\Controller\VideosController.php : 14] Videos#index
+[07/14/2014 08:23:01 : \app\Controller\VideosController.php : 14] Videos#index
+[07/14/2014 08:37:41 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 08:39:14 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 08:56:05 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 08:56:49 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 08:57:48 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 08:58:43 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 08:58:55 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 09:01:06 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 09:01:28 : \app\Controller\VideosController.php : 22] Videos#index
+[07/14/2014 09:07:48 : \app\Controller\VideosController.php : 26] Videos#index
+[07/14/2014 09:07:58 : \app\Controller\VideosController.php : 26] Videos#index
+[07/14/2014 09:08:06 : \app\Controller\VideosController.php : 26] Videos#index
+[07/14/2014 09:08:35 : \app\Controller\VideosController.php : 26] Videos#index
+[07/14/2014 09:08:56 : \app\Controller\VideosController.php : 26] Videos#index
+[07/14/2014 09:09:04 : \app\Controller\VideosController.php : 26] Videos#index
+[07/14/2014 09:09:15 : \app\Controller\VideosController.php : 26] Videos#index
+[07/14/2014 09:09:26 : \app\Controller\VideosController.php : 27] Videos#index
+[07/14/2014 09:09:42 : \app\Controller\VideosController.php : 28] Videos#index
+[07/14/2014 09:09:55 : \app\Controller\VideosController.php : 28] Videos#index
+[07/14/2014 09:10:00 : \app\Controller\VideosController.php : 28] Videos#index
+[07/14/2014 09:10:12 : \app\Controller\VideosController.php : 29] Videos#index
+[07/14/2014 09:10:37 : \app\Controller\VideosController.php : 29] Videos#index
+[07/14/2014 09:10:45 : \app\Controller\VideosController.php : 29] Videos#index
+[07/14/2014 09:14:54 : \app\Controller\VideosController.php : 38] Videos#index
+[07/14/2014 09:15:17 : \app\Controller\VideosController.php : 39] Videos#index
+[07/14/2014 09:17:18 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:17:28 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:17:58 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:18:00 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:18:02 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:18:06 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:19:19 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:19:21 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:19:24 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:19:26 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:19:27 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:19:29 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:19:30 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:20:48 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:20:54 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:20:56 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:20:58 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:21:31 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:21:36 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:21:39 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:21:40 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:21:43 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:21:46 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:21:48 : \app\Controller\VideosController.php : 49] Videos#index
+[07/14/2014 09:28:08 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:32:06 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:33:04 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:33:19 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:33:45 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:33:48 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:33:49 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:33:51 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:33:52 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:34:22 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:34:30 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:34:32 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:34:33 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:34:36 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:34:44 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:35:21 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:35:24 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:35:47 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:35:49 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:37:05 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:37:08 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:37:10 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:37:14 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:37:16 : \app\Controller\VideosController.php : 50] Videos#index
+[07/14/2014 09:57:47 : \app\Controller\VideosController.php : 50] Videos#index
+[07/16/2014 00:01:56 : \app\Controller\VideosController.php : 50] Videos#index
+[07/16/2014 08:49:53 : \app\Controller\VideosController.php : 50] Videos#index
+[07/16/2014 09:01:17 : \app\Controller\VideosController.php : 50] Videos#index
+[07/16/2014 09:10:05 : \app\Controller\VideosController.php : 50] Videos#index
+[07/16/2014 09:13:06 : \app\Controller\VideosController.php : 50] Videos#index
+[07/16/2014 10:24:21 : \app\Controller\VideosController.php : 50] Videos#index
+[07/16/2014 11:23:47 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 05:10:21 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 06:39:24 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 07:01:36 : \app\Controller\PositionsController.php : 265] sort_PosList()
+[07/17/2014 07:01:42 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 07:01:54 : \app\Controller\PositionsController.php : 265] sort_PosList()
+[07/17/2014 10:38:48 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 10:40:36 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 10:50:07 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 10:54:01 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 10:54:52 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:06:58 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:08:12 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:09:55 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:12:20 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:14:10 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:15:33 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:18:29 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:19:25 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:19:37 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:19:49 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:20:09 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:20:36 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:20:57 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:21:03 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:21:10 : \app\Controller\VideosController.php : 50] Videos#index
+[07/17/2014 11:21:16 : \app\Controller\VideosController.php : 50] Videos#index
+[09/19/2014 09:31:37 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 09:32:13 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 12:42:37 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 12:58:25 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 12:58:39 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 12:59:59 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:00:30 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:05:56 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:07:21 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:07:44 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:13:16 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:13:44 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:18:13 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:18:39 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:21:16 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:21:58 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:22:29 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:24:24 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:25:09 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:27:32 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:27:54 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:28:27 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:28:35 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:29:07 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:29:22 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:29:44 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:31:10 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:31:27 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:31:45 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:32:51 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:33:35 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:35:41 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:36:35 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:36:45 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:37:28 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:37:43 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:39:29 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:40:09 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:40:35 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:41:15 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:44:44 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:44:59 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 13:45:55 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:26:39 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:28:59 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:29:21 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:30:44 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:33:32 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:35:54 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:35:59 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:36:46 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:37:38 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:38:03 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:38:37 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:40:31 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 14:42:37 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/19/2014 15:11:20 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:19:17 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:19:28 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:19:41 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:21:05 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:30:57 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:31:48 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:32:10 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:34:13 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:38:53 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:42:37 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:43:00 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:44:57 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:52:19 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:52:39 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:54:36 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:55:48 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:57:16 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 15:57:44 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 16:06:55 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 19:27:27 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 19:28:24 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 21:15:50 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 22:09:13 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 22:09:30 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 22:10:14 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 22:12:06 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 22:14:06 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 22:17:56 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/19/2014 22:18:36 : \app\Controller\ArticlesController.php : 49] Videos#index
+[09/20/2014 14:19:49 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:20:29 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:21:43 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:22:27 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:22:47 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:26:15 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:28:12 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:38:32 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:39:25 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:40:36 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:42:28 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:44:56 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:46:49 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 14:49:58 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:18:17 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:24:16 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:24:51 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:27:21 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:28:09 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:28:31 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:30:04 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:30:19 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 15:38:08 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:05:19 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:05:48 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:06:10 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:06:23 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:09:26 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:09:55 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:14:47 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:15:03 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:19:11 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:21:09 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:21:57 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:23:35 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:26:33 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:26:50 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:27:57 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:28:09 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:31:02 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:31:30 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:32:11 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:32:32 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:33:27 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:33:35 : \app\Controller\ArticlesController.php : 14] Videos#index
+[09/20/2014 16:47:55 : \app\Controller\ArticlesController.php : 15] Videos#index
+[09/20/2014 16:50:22 : \app\Controller\ArticlesController.php : 15] Videos#index
+[09/20/2014 16:50:41 : \app\Controller\ArticlesController.php : 15] Videos#index
+[09/21/2014 16:55:43 : \app\Controller\CategorysController.php : 266] counter => 0
+[09/21/2014 17:00:57 : \app\Controller\CategorysController.php : 268] counter => 0
+[09/21/2014 17:02:10 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 17:02:10 : \app\Controller\CategorysController.php : 272] counter => 0
+[09/21/2014 17:04:46 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 17:04:46 : \app\Controller\CategorysController.php : 284] counter => 0
+[09/21/2014 17:06:47 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 17:06:47 : \app\Controller\CategorysController.php : 284] counter => 0
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:08:05 : \app\Controller\CategorysController.php : 287] counter => 0
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:09:02 : \app\Controller\CategorysController.php : 292] counter => 0
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => China
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Europe
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => US
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => South East Asia
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => South & North Korea
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Middle East
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => South Asia
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => 医療・介護
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Nuc plants
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Africa
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Latin America
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Global
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Incidents
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Legal
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Automobile
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Europe
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Electronics
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Mobile
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Taxes
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Law
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Political parties
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Nuc plants
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Okinawa
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Companies
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Labor
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Cities
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Politics
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Economies
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Companies
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Money
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => China
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Transportation
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Pacific
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Disaster
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => US
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Global
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Labor
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Education
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Energy
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => China
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Japan
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Weather
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => South & North Korea
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Global
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Defense
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Culture
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Central Asia
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Eastern Europe
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Transportation
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Retail
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Media
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 230] foreach
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 235] $cat_pair => Science
+[09/21/2014 17:10:15 : \app\Controller\CategorysController.php : 297] counter => 0
+[09/21/2014 17:11:17 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 17:11:18 : \app\Controller\CategorysController.php : 297] counter => 48
+[09/21/2014 19:10:10 : \app\Controller\CategorysController.php : 218] $cat_pairs => 52
+[09/21/2014 19:10:11 : \app\Controller\CategorysController.php : 299] counter => 48
+[09/21/2014 21:21:37 : \app\Controller\CategorysController.php : 237] $cat_pairs => 52
+[09/21/2014 21:21:37 : \app\Controller\CategorysController.php : 318] counter => 48
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 230] data[3] => Array, Array, Array
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 230] data[4] => Array, Array, Array
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 230] data[5] => Array, Array, Array
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 230] data[6] => Array, Array, Array
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 230] data[7] => Array, Array, Array
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 230] data[8] => Array, Array, Array
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 230] data[9] => Array, Array, Array
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 248] $cat_pairs => 52
+[09/21/2014 21:51:47 : \app\Controller\CategorysController.php : 353] counter => 48
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 231] data[3] => 1, China, 3
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 231] data[4] => 2, Europe, 3
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 231] data[5] => 3, US, 3
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 231] data[6] => 4, South East Asia, 3
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 231] data[7] => 5, South & North Korea, 3
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 231] data[8] => 6, Middle East, 3
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 231] data[9] => 7, South Asia, 3
+[09/21/2014 21:53:00 : \app\Controller\CategorysController.php : 249] $cat_pairs => 52
+[09/21/2014 21:53:01 : \app\Controller\CategorysController.php : 354] counter => 48
+[09/21/2014 22:26:42 : \app\Controller\CategorysController.php : 25] ROOT = C:\WORKS\WS\Eclipse_Kepler\Cake_NR5
+[09/21/2014 22:26:47 : \app\Controller\CategorysController.php : 267] $cat_pairs => 52
+[09/21/2014 22:26:47 : \app\Controller\CategorysController.php : 379] counter => 21
+[09/21/2014 22:26:47 : \app\Controller\CategorysController.php : 25] ROOT = C:\WORKS\WS\Eclipse_Kepler\Cake_NR5
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 272] $cat_pairs => 52
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 1, China
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 2, Europe
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 3, US
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 4, South East Asia
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 5, South & North Korea
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 6, Middle East
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 7, South Asia
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 8, 医療・介護
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 9, Nuc plants
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 10, Africa
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 11, Latin America
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 12, Global
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 13, Incidents
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 14, Legal
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 15, Automobile
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 16, Europe
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 17, Electronics
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 18, Mobile
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 19, Taxes
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 24, Companies
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 342] cat_pair => 25, Labor
+[09/21/2014 23:14:01 : \app\Controller\CategorysController.php : 386] counter => 21
+[09/21/2014 23:23:42 : \app\Controller\CategorysController.php : 272] $cat_pairs => 52
+[09/21/2014 23:23:43 : \app\Controller\CategorysController.php : 386] counter => 48
+[09/22/2014 07:12:21 : \app\Controller\CategorysController.php : 272] $cat_pairs => 52
+[09/22/2014 07:12:21 : \app\Controller\CategorysController.php : 374] counter => 48
+[09/22/2014 09:07:07 : \app\Controller\KeywordsController.php : 368] $kw_pairs => 921
+[09/22/2014 09:07:58 : \app\Controller\KeywordsController.php : 368] $kw_pairs => 921
+[09/22/2014 09:07:58 : \app\Controller\KeywordsController.php : 304] counter => 21
+[09/22/2014 09:08:47 : \app\Controller\KeywordsController.php : 368] $kw_pairs => 921
+[09/22/2014 09:08:49 : \app\Controller\KeywordsController.php : 304] counter => 21
+[09/22/2014 09:09:39 : \app\Controller\KeywordsController.php : 368] $kw_pairs => 921
+[09/22/2014 09:09:41 : \app\Controller\KeywordsController.php : 304] counter => 21
+[09/22/2014 09:10:27 : \app\Controller\KeywordsController.php : 368] $kw_pairs => 921
+[09/22/2014 09:10:38 : \app\Controller\KeywordsController.php : 304] counter => 911
+[09/22/2014 09:13:27 : \app\Controller\KeywordsController.php : 370] $kw_pairs => 921
+[09/22/2014 09:13:57 : \app\Controller\KeywordsController.php : 370] $kw_pairs => 921
+[09/22/2014 09:14:06 : \app\Controller\KeywordsController.php : 306] counter => 911
+[09/22/2014 09:20:50 : \app\Controller\CategorysController.php : 272] $cat_pairs => 52
+[09/22/2014 09:20:50 : \app\Controller\CategorysController.php : 374] counter => 48
+[09/22/2014 09:21:37 : \app\Controller\KeywordsController.php : 370] $kw_pairs => 921
+[09/22/2014 09:21:45 : \app\Controller\KeywordsController.php : 306] counter => 911
+[09/26/2014 11:37:34 : \app\Controller\ArticlesController.php : 2239] 14
+[09/26/2014 11:38:01 : \app\Controller\ArticlesController.php : 2239] 14
+[09/26/2014 11:38:43 : \app\Controller\ArticlesController.php : 2239] $ahrefs => 15
+[09/26/2014 11:43:04 : \app\Controller\ArticlesController.php : 2239] $ahrefs => 13
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2239] $ahrefs => 14
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:43:58 : \app\Controller\ArticlesController.php : 2248] 0
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2239] $ahrefs => 13
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => ニュース
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => 条件指定
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => トピックス
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => Buzzワード
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => 意識調査
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => 全国紙パック
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => 国内
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => 毎日新聞&nbsp;9月26日(金)7時10分配信     
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text =>  　１８日に亡くなった文化勲章受章者の宇沢弘文・東大名誉教授は、マクロ、ミクロ両経済学の分野で先駆的な業績を上げ、世界計量経済学会会長を務めるなど、世界的な経済学者として活躍した。同時に環境破壊など現代文明に対する鋭い批判者としても知られ、地球温暖化防止などを訴え続けた。
+ 
+ 　宇沢さんは１９５１年に東大理学部数学科を卒業。生命保険会社に一時勤務したが、経済学に転じ、渡米。スタンフォード大で助教授、准教授を歴任。カリフォルニア大経済学部助教授、シカゴ大教授を経て、６９年から東大経済学部教授となった。
+ 
+ 　５０年代から７０年代にかけ、数理経済学の分野で数多くの実績を上げた。特に高い評価を受けたのは、消費財と資本財の２部門の成長モデルの構築。農業と工業が成長を遂げるため、土地、資本、労働など生産要素が部門間でどう移動すればいいかを理論的に実証した。
+ 
+ 　しかし７０年代以降は、次第に市場原理を優先する現代新古典派理論に疑問を抱き、同理論を激しく批判する立場をとった。公害など環境問題に対応できていないという不満からだった。地球温暖化など環境問題への発言は多く、生産、消費優先の先進工業国のあり方に疑問を投げかけた。
+ 
+ 　９０年８月には、毎日新聞のインタビューに対し、「石油、石炭をふんだんに消費し、環境保護の費用を出し惜しんできた工業文明のツケが、今、私たちに回ってきている」とし、「将来の世代と開発途上国に負担を肩代わりさせないよう、生産、消費のコストに温暖化を減らす費用を急ぎ組み込まねばなりません」と語った。当時、宇沢さんが提唱した「炭素税（カーボン・タックス）」を世界各国に課すというアイデアは、その税収で大気安定化国際基金を設け、発展途上国の森林作りなどに役立てるという狙いだった。そうした環境面での国際貢献で日本が先頭に立つよう、強く訴えた。
+ 
+ 　企業活動と環境保全をどう両立させるかについて、宇沢さんは「経済成長率が高いということは、地球の温暖化や日本の経済摩擦のような好ましくない問題を引き起こす。本来なら経済成長率は低いほど望ましい」とさえ述べていた。
+ 
+ 　９７年に地球温暖化防止に向け、京都議定書が締結され、先進国が温室効果ガス削減目標を定めたが、日本で官民による環境保全の流れを作る上で、宇沢さんの主張は大きな影響を及ぼした。
+ 
+ 　近年は、環太平洋パートナーシップ協定（ＴＰＰ）の反対運動に携わり、日本の農業保護などを訴えていた。
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => 最終更新:9月26日(金)7時10分
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => 
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => もっと見る
+[09/26/2014 11:44:50 : \app\Controller\ArticlesController.php : 2248] href: text => もっと見る
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2239] $ahrefs => 14
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => ニュース
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => 条件指定
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => トピックス
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => Buzzワード
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => 意識調査
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => 全国紙パック
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => 国内
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => 読売新聞&nbsp;9月26日(金)7時58分配信     
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text =>  　ＪＲ北海道は２５日、男性運転士（２３）が特急列車を運転中、私用のスマートフォンを使って会員制交流サイト「フェイスブック」に書き込みを行ったと発表した。
+ 
+ 　乗務中にスマホを使うことは社内規定で禁じられており、同社は運転士を処分する方針。
+ 
+ 　発表によると、運転士は２２日午前６時５０分頃、釧路発札幌行き特急「スーパーおおぞら２号」で、北海道白糠町の根室線白糠―古瀬間を走行中、運転席でスマホから自身のフェイスブックに情報を送信した。社内調査に対し、書き込みを認め「大変反省している」と話しているという。
+ 
+ 　同社広報部は「いまだに意識が変わらない社員がいることを厳粛に受け止めている。指導を強化する」としている。
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => 最終更新:9月26日(金)7時58分
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => ※Buzzは自動抽出された記事です。
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => もっと見る
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2248] class => 
+[09/26/2014 11:47:27 : \app\Controller\ArticlesController.php : 2253] href: text => もっと見る
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2239] $ahrefs => 14
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2254] href: text => ニュース
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2254] href: text => 条件指定
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2254] href: text => トピックス
+[09/26/2014 11:49:17 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => Buzzワード
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => 意識調査
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => 全国紙パック
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => 国内
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => 読売新聞&nbsp;9月26日(金)9時17分配信     
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text =>  　【バンコク＝児玉浩太郎】ベトナムから輸入した冷凍シシャモに殺そ剤などの異物が混入していた問題で、ベトナム警察当局は、食品加工会社「リッチ・ビューティー・フード」元従業員の３０歳代の男を器物損壊容疑で逮捕した。
+ 
+ 　地元メディアが２５日報じた。
+ 
+ 　問題となったのは、同社が加工し、山口県内の業者が５〜６月に輸入した「子持ちからふとししゃも」。男は容疑を認め、「１日に１３〜１４時間も働かされており、会社の信用を失わせるためにやった」と供述しているという。
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => 最終更新:9月26日(金)9時17分
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => ※Buzzは自動抽出された記事です。
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => もっと見る
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2249] class => 
+[09/26/2014 11:49:18 : \app\Controller\ArticlesController.php : 2254] href: text => もっと見る
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2239] $ahrefs => 16
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => currentSearch
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => ニュース
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => advanced
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 条件指定
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => currentSearch
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => トピックス
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => currentSearch
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => Buzzワード
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => currentSearch
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 意識調査
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => currentSearch
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 全国紙パック
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => dom
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 国内
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => yjSt ymuiDate
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 河北新報&nbsp;9月26日(金)9時5分配信     
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => photoOffer
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text =>   店内から押収品を運び出す捜査員＝25日午後5時55分ごろ、仙台市青葉区一番町4丁目                          
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => ynDetailText
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text =>  　車の運転に支障が出る恐れを知りながら危険ドラッグを販売したとして、宮城県警は25日、道交法違反（過労運転等の禁止）ほう助の疑いで、仙台市青葉区一番町4丁目の輸入雑貨販売店「FOUR　SIDE（フォーサイド）仙台店」を家宅捜索した。県警によると、同容疑による危険ドラッグ販売店の捜索は全国で初めて。
+ 　捜索容疑は12日、県内の40代の男性会社員に危険ドラッグを売り、男性が吸引して車を運転するのを手助けした疑い。
+ 　男性は同日午後0時45分ごろ、店の前の市道で乗用車を運転、道路脇の電柱にぶつかる事故を起こした。県警の調べに「店でハーブを買い、運転する直前に吸った」と供述。助手席付近から危険ドラッグとみられる植物片の入った袋が見つかった。
+ 　捜索は県警交通指導課と仙台中央署の捜査員ら計10人態勢で午後2時ごろから約4時間にわたった。店内にあった植物片やパイプなど計約190点を押収。県警は鑑定などの裏付け捜査を進めている。
+ 　同店はホームページで、販売が禁じられている危険ドラッグの名称を引き合いに出し、商品を紹介。一方で「法で規制されているものは一切扱っていない」「商品は人体への摂取が目的ではなく、トラブルに責任は負わない」とも記している。
+ 　県警によると、宮城県内で危険ドラッグを販売しているのは、フォーサイド仙台店を含む仙台市内の店舗型2店（うち1店は休業中）と宅配専門の3業者の計5業者が確認されている。
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => ynDetailAuthor
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 河北新報社
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => ynLastEditDate yjSt
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 最終更新:9月26日(金)9時5分
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => ynCobrandBanner
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => 
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => yjS
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => ※Buzzは自動抽出された記事です。
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => ft
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => もっと見る
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2250] class => ft
+[09/26/2014 11:49:45 : \app\Controller\ArticlesController.php : 2255] href: text => もっと見る
+[09/26/2014 11:50:49 : \app\Controller\ArticlesController.php : 2263] content =>  　滋賀県高島市で昨年、鴨川河川敷に放射性セシウムが付着した樹皮などの木材チップが投棄された問題で、県警は２５日、経営コンサルタント会社社長の田中良拓容疑者（４２）（東京都中野区）を廃棄物処理法違反と河川法違反の疑いで逮捕した。
+ 
+ 　容疑を否認している。
+ 
+ 　発表によると、田中容疑者は神奈川県内の男、滋賀県内の建設会社社長の２人と共謀。昨年３〜４月、高島市安曇川町の鴨川河川敷に長さ約５７０メートル、幅約５メートルにわたり、廃棄物であるチップ約３００立方メートルを県の許可なく廃棄、土地の形状を変更した疑い。
+ 
+ 　県によると、検出された放射性セシウムは１キロ当たり最大３９００ベクレルで、国の指定廃棄物の基準（１キロ当たり８０００ベクレル超）は下回っていた。今年２月までに撤去され、県などが告発していた。
+ 
+ 　捜査関係者らによると、チップは福島県内の製材会社の所有だったが、東京電力福島第一原発事故後、田中容疑者が無償処理を持ちかけ、製材会社から引き取った。田中容疑者はその後、チップの処分費用として東電から約４億円を受け取った。しかし、チップは結局、処分されず、一部が鴨川河川敷に投棄されたという。東電は「個別案件については答えられない」とする。
+ 
+ 　捜査関係者によると、田中容疑者は旧郵政省の元キャリア官僚。神奈川県の男を通じ、滋賀県の建設会社社長にチップの処分を依頼したとされる。これまでの読売新聞の取材に対し、神奈川県の男は「放射性物質に汚染されたものとは知らなかった」と説明。滋賀県の社長は「（神奈川県の男から）河川敷に運んでほしいと言われただけだ」と話していた。県警はこの２人からも事情を聞いている。
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:37 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:38 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:39 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:40 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:41 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:42 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:43 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:44 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:45 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:46 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:47 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:19:48 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:00 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:01 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:02 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:03 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 9
+[09/29/2014 15:20:04 : \app\Controller\HistorysController.php : 373] 7
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:02 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:03 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:52 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:25:53 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:14 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 7
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:26:15 : \app\Controller\HistorysController.php : 374] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:39 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:27:40 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:06 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 7
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:30:07 : \app\Controller\HistorysController.php : 376] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[09/29/2014 15:31:04 : \app\Controller\HistorysController.php : 378] 9
+[10/16/2014 11:16:35 : \app\Controller\EqsController.php : 443] Save eqs done => 0
+[10/16/2014 11:19:31 : \app\Controller\EqsController.php : 449] Save eqs done => 100
+[10/16/2014 11:24:12 : \app\Controller\EqsController.php : 453] Save eqs done => 100
+[10/16/2014 11:29:56 : \app\Controller\EqsController.php : 460] Save eqs done => 100
+[10/16/2014 11:37:25 : \app\Controller\EqsController.php : 461] Save eqs done => 100
+[10/19/2014 11:10:48 : \app\Controller\EqsController.php : 510] Save eqs done => 100
+[10/19/2014 11:18:11 : \app\Controller\EqsController.php : 512] Save eqs done => 100
+[10/19/2014 11:19:55 : \app\Controller\EqsController.php : 514] Save eqs done => 100
+[10/19/2014 11:20:20 : \app\Controller\EqsController.php : 514] Save eqs done => 100

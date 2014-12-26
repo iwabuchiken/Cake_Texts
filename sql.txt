@@ -1,0 +1,418 @@
+#pushd C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot
+
+sqlite3 C:\WORKS\WS\Eclipse_Kepler\Cake_NR5\app\webroot\development.sqlite3
+.explain on
+.tables
+
+pragma table_info(admin);
+pragma table_info(tokens);
+
+pragma table_info(articles);
+pragma table_info(categories);
+
+.exit
+
+[sqlite3]======================================
+DROP TABLE users;
+
+CREATE TABLE users (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+    username VARCHAR(50),
+    password VARCHAR(255),
+    role VARCHAR(20)
+	
+);
+
+CREATE TABLE articles(
+   id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+   created_at	VARCHAR(30),
+   updated_at	VARCHAR(30),
+   
+   line			TEXT,
+   url			TEXT,
+   vendor		VARCHAR(30),
+   
+   news_time	VARCHAR(30),
+   
+   genre_id		INT,
+   cat_id		INT,
+   subcat_id	INT,
+   
+   user_id		INT
+   
+   
+   
+);
+
+CREATE TABLE genres (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	code			VARCHAR(100),
+	name			VARCHAR(100)
+	
+);
+
+DROP TABLE categories;
+
+CREATE TABLE categories (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	name		VARCHAR(100),
+	genre_id	INTEGER,
+
+	original_id	INTEGER
+	
+);
+
+DROP TABLE keywords;
+
+CREATE TABLE keywords (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	name		VARCHAR(100),
+	category_id	INTEGER
+	
+);
+
+DROP TABLE histories;
+
+CREATE TABLE histories(
+   id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+   created_at	VARCHAR(30),
+   updated_at	VARCHAR(30),
+   
+   line			TEXT,
+   url			TEXT,
+   vendor		VARCHAR(30),
+   
+   news_time	VARCHAR(30),
+   
+   genre_id		INT,
+   category_id	INT,
+   subcat_id	INT,
+   
+   content		TEXT,
+   
+   user_id		INT
+   
+);
+
+DROP TABLE tokens;
+
+CREATE TABLE tokens(
+   id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+   created_at	VARCHAR(30),
+   updated_at	VARCHAR(30),
+   
+   form			VARCHAR(30),
+   
+   hin			VARCHAR(30),
+   hin_1		VARCHAR(30),
+   hin_2		VARCHAR(30),
+   hin_3		VARCHAR(30),
+   
+   katsu_kei	VARCHAR(30),
+   katsu_kata	VARCHAR(30),
+   
+   genkei		VARCHAR(30),
+   
+   yomi			VARCHAR(30),
+   hatsu		VARCHAR(30),
+   
+   history_id	INT,
+   
+   user_id		INT
+   
+);
+
+DROP TABLE skimmed_tokens;
+
+CREATE TABLE skimmed_tokens(
+   id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+   created_at	VARCHAR(30),
+   updated_at	VARCHAR(30),
+   
+   form			VARCHAR(30),
+   
+   hin			VARCHAR(30),
+   hin_1		VARCHAR(30),
+   hin_2		VARCHAR(30),
+   hin_3		VARCHAR(30),
+   
+   katsu_kei	VARCHAR(30),
+   katsu_kata	VARCHAR(30),
+   
+   genkei		VARCHAR(30),
+   
+   yomi			VARCHAR(30),
+   hatsu		VARCHAR(30),
+   
+   history_id	INT,
+   
+   user_id		INT
+   
+);
+
+DROP TABLE admins;
+
+CREATE TABLE admins (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	name		VARCHAR(30),
+	val1		VARCHAR(100),
+	val2		VARCHAR(100)
+	
+);
+
+CREATE TABLE users (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	username VARCHAR(50),
+	password VARCHAR(50),
+	role VARCHAR(20)
+	
+);
+
+DROP TABLE eqs;
+
+CREATE TABLE eqs (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	time_eq		VARCHAR(30),
+	time_pub	VARCHAR(100),
+	epi			VARCHAR(30),
+	mag			VARCHAR(30),
+	ss			INTEGER,
+
+	longi		VARCHAR(30),
+	lat			VARCHAR(30),
+	depth		VARCHAR(30),
+	info		VARCHAR(100),
+	
+	url_img		VARCHAR(200),
+	
+	time_eq_serial	VARCHAR(20)
+);
+
+CREATE TABLE users (
+	id			INTEGER PRIMARY KEY     AUTOINCREMENT	NOT NULL,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	username VARCHAR(50),
+	password VARCHAR(50),
+	role VARCHAR(20)
+	
+);
+
+
+[mysql(lollipop)]======================================
+#REF http://sql-info.de/mysql/examples/CREATE-TABLE-examples.html
+
+DROP TABLE users;
+
+CREATE TABLE users (
+	id			INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+    username VARCHAR(50),
+    password VARCHAR(255),
+    role VARCHAR(20)
+	
+);
+
+CREATE TABLE articles(
+	id			INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+   line			TEXT,
+   url			TEXT,
+   vendor		VARCHAR(30),
+   
+   news_time	VARCHAR(30),
+   
+   genre_id		INT,
+   cat_id		INT,
+   subcat_id	INT,
+   
+   user_id		INT
+	
+);
+
+CREATE TABLE genres (
+	id			INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	code			VARCHAR(100),
+	name			VARCHAR(100)
+	
+);
+
+DROP TABLE categories;
+
+CREATE TABLE categories (
+	id			INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	name		VARCHAR(100),
+	genre_id	INTEGER,
+	
+	original_id	INTEGER
+	
+);
+
+CREATE TABLE keywords (
+	id			INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	name		VARCHAR(100),
+	category_id	INTEGER
+	
+);
+
+DROP TABLE histories;
+
+CREATE TABLE histories(
+   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+   created_at	VARCHAR(30),
+   updated_at	VARCHAR(30),
+   
+   line			TEXT,
+   url			TEXT,
+   vendor		VARCHAR(30),
+   
+   news_time	VARCHAR(30),
+   
+   genre_id		INT,
+   category_id	INT,
+   subcat_id	INT,
+   
+   content		TEXT,
+   
+   user_id		INT
+   
+);
+
+DROP TABLE tokens;
+
+CREATE TABLE tokens(
+   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+   created_at	VARCHAR(30),
+   updated_at	VARCHAR(30),
+   
+   form			VARCHAR(30),
+   
+   hin		VARCHAR(30),
+   hin_1		VARCHAR(30),
+   hin_2		VARCHAR(30),
+   hin_3		VARCHAR(30),
+   
+   katsu_kei	VARCHAR(30),
+   katsu_kata	VARCHAR(30),
+   
+   genkei		VARCHAR(30),
+   
+   yomi			VARCHAR(30),
+   hatsu		VARCHAR(30),
+   
+   history_id	INT,
+   
+   user_id		INT
+   
+);
+
+DROP TABLE skimmed_tokens;
+
+CREATE TABLE skimmed_tokens(
+   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+   created_at	VARCHAR(30),
+   updated_at	VARCHAR(30),
+   
+   form			VARCHAR(30),
+   
+   hin		VARCHAR(30),
+   hin_1		VARCHAR(30),
+   hin_2		VARCHAR(30),
+   hin_3		VARCHAR(30),
+   
+   katsu_kei	VARCHAR(30),
+   katsu_kata	VARCHAR(30),
+   
+   genkei		VARCHAR(30),
+   
+   yomi			VARCHAR(30),
+   hatsu		VARCHAR(30),
+   
+   history_id	INT,
+   
+   user_id		INT
+   
+);
+
+DROP TABLE admin;
+DROP TABLE admins;
+
+CREATE TABLE admins (
+	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	name		VARCHAR(30),
+	val1		VARCHAR(100),
+	val2		VARCHAR(100)
+	
+);
+
+DROP TABLE eqs;
+
+CREATE TABLE eqs (
+	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	time_eq		VARCHAR(30),
+	time_pub	VARCHAR(100),
+	epi			VARCHAR(30),
+	mag			VARCHAR(30),
+	ss			INTEGER,
+
+	longi		VARCHAR(30),
+	lat			VARCHAR(30),
+	depth		VARCHAR(30),
+	info		VARCHAR(100),
+	
+	url_img		VARCHAR(200),
+	time_eq_serial	VARCHAR(20)
+	
+);
+
+CREATE TABLE users (
+	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	created_at	VARCHAR(30),
+	updated_at	VARCHAR(30),
+	
+	username VARCHAR(50),
+	password VARCHAR(50),
+	role VARCHAR(20)
+	
+);
